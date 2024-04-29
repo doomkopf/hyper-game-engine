@@ -1,0 +1,6 @@
+q---------w
+|xx|xx|xxx|
+|xx|x-|xxx|
+|xx|xx|---|
+|xx|xx|xxx|
+a---------s

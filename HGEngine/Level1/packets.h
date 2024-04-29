@@ -1,0 +1,5 @@
+#define HG_PLAYERSTATUS 0
+#define HG_SPAWNPOS 1
+#define HG_NEWOBJECT 2
+#define HG_DELETEOBJECT 3
+#define HG_TESTHIT 4
